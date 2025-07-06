@@ -15,8 +15,9 @@ The ultimate goal is to **transform raw data into meaningful insights** for deci
 ---
 
 ### 1. Retrieve the total number of orders placed.
-***sql 
+***sql
 select count(order_id) as total_orders from orders;
+***
 ### 2. 
 ***sql 
 ### 3.
